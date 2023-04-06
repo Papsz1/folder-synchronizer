@@ -1,4 +1,3 @@
-# Szilagyi-Pap David, Internal Development in QA Test Task, Folder synchronizer
 import os, shutil, sys, hashlib, datetime, time
 
 # Tested on linux and windows, it is a cross platform solution
